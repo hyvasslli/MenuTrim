@@ -1,0 +1,38 @@
+MenuTrim Freeware License
+
+Copyright © 2026 Hany
+All rights reserved.
+
+MenuTrim is provided free of charge for personal, educational, research,
+and internal business use.
+
+You may install and use MenuTrim on your own computers and within your
+organization without charge.
+
+You may redistribute unmodified official MenuTrim installation packages
+free of charge, provided that:
+
+1. The software is not modified.
+2. No fee is charged specifically for MenuTrim.
+3. The original copyright notice is retained.
+4. The software is not presented as an official product of another developer.
+
+You may not, without prior written permission:
+
+1. Sell MenuTrim.
+2. Charge a license fee, subscription fee, or download fee for MenuTrim.
+3. Modify, reverse engineer, repackage, or redistribute modified versions
+   of MenuTrim except where applicable law expressly permits otherwise.
+4. Rebrand MenuTrim as another product.
+5. Publish MenuTrim as your own application in an application marketplace.
+6. Use the MenuTrim name, icon, logo, or branding in a way that implies
+   ownership or official endorsement.
+
+The MenuTrim source code is not publicly distributed.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.

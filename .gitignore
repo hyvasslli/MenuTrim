@@ -1,0 +1,34 @@
+.DS_Store
+
+# Installation packages belong in GitHub Releases
+*.dmg
+*.zip
+
+# Source and project files are not part of this product repository
+*.swift
+*.m
+*.mm
+*.h
+*.xcodeproj/
+*.xcworkspace/
+Package.swift
+Sources/
+Tests/
+Research/
+Tools/
+DerivedData/
+build/
+build-*/
+
+# Credentials, signing material, and local secrets
+*.p8
+*.p12
+*.cer
+*.key
+*.pem
+*.mobileprovision
+*.provisionprofile
+.env
+.env.*
+Secrets.*
+credentials.*
