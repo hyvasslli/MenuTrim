@@ -3,8 +3,10 @@
 ## 0.3.1 — 2026-09-21
 
 - Added a native macOS 27 Icon Composer app icon.
+- Distributed as a Developer ID signed app in an Apple notarized and stapled DMG.
 - Kept application behavior unchanged.
 - 新增 macOS 27 原生 Icon Composer 应用图标。
+- 应用使用 Developer ID 签名，DMG 已通过 Apple 公证并写入公证票据。
 - 应用功能保持不变。
 
 ## 0.3.0 — 2026-09-21

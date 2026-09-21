@@ -50,7 +50,7 @@ Apple system controls remain visible. MenuTrim does not change their spacing.
 4. Hold Command and drag the third-party icons you want to manage to the left of the MenuTrim divider.
 5. Click the chevron to hide or reveal them.
 
-The current package is signed with an Apple Developer ID. It has not yet completed Apple notarization, so macOS may require confirmation under **System Settings → Privacy & Security → Open Anyway**. You do not need to disable Gatekeeper.
+The release contains a Developer ID signed app. Its DMG has been accepted by Apple notarization and includes a stapled notarization ticket.
 
 ### Requirements
 
@@ -105,7 +105,7 @@ Apple 系统控制图标始终保留，MenuTrim 不修改系统图标间距。
 4. 按住 Command 键，将需要管理的第三方图标拖到 MenuTrim 分界线左侧。
 5. 点击箭头收起或展开这些图标。
 
-当前安装包已使用 Apple Developer ID 签名，但尚未完成 Apple 公证。macOS 可能要求在 **系统设置 → 隐私与安全性 → 仍要打开** 中确认。无需关闭 Gatekeeper。
+正式版本中的应用已使用 Apple Developer ID 签名，DMG 已通过 Apple 公证并写入公证票据。
 
 ### 系统要求
 
