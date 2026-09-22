@@ -69,7 +69,7 @@ Bug reports and feature suggestions are welcome through [GitHub Issues](https://
 
 ### License
 
-MenuTrim is free to download and use. Copyright © 2026 Hany. All rights reserved. The source code is not publicly distributed. See [LICENSE.txt](LICENSE.txt).
+MenuTrim is free to download and use. Created by Yang Han (Hany). Copyright © 2026 Yang Han (Hany). All rights reserved. The source code is not publicly distributed. See [LICENSE.txt](LICENSE.txt).
 
 More apps by Hany: [github.com/hyvasslli](https://github.com/hyvasslli)
 
@@ -124,6 +124,6 @@ MenuTrim 不收集统计数据、个人数据或使用数据，设置仅保存�
 
 ### 许可
 
-MenuTrim 可免费下载和使用。Copyright © 2026 Hany。保留所有权利。源代码不公开分发。详见 [LICENSE.txt](LICENSE.txt)。
+MenuTrim 可免费下载和使用。作者：Yang Han (Hany)。Copyright © 2026 Yang Han (Hany)。保留所有权利。源代码不公开分发。详见 [LICENSE.txt](LICENSE.txt)。
 
 Hany 的更多应用：[github.com/hyvasslli](https://github.com/hyvasslli)

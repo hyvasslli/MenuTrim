@@ -1,5 +1,14 @@
 # Changelog / 更新记录
 
+## 1.0.0 — 2026-09-22
+
+- First stable MenuTrim release.
+- Settings now show Version 1.0.0, author Yang Han (Hany), and the copyright notice.
+- App and DMG are signed with Developer ID and distributed in an Apple-notarized, stapled DMG.
+- MenuTrim 首个稳定版本。
+- 设置窗口现显示 Version 1.0.0、作者 Yang Han (Hany) 及版权信息。
+- 应用与 DMG 均已使用 Developer ID 签名，DMG 已通过 Apple 公证并写入公证票据。
+
 ## 0.3.1 — 2026-09-21
 
 - Added a native macOS 27 Icon Composer app icon.

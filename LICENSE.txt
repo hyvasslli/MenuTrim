@@ -1,6 +1,6 @@
 MenuTrim Freeware License
 
-Copyright © 2026 Hany
+Copyright © 2026 Yang Han (Hany)
 All rights reserved.
 
 MenuTrim is provided free of charge for personal, educational, research,
