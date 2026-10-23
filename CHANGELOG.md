@@ -1,5 +1,14 @@
 # Changelog / 更新记录
 
+## 1.0.1 — 2026-10-23
+
+- Hidden icons now stay hidden after switching desktops (Spaces), waking from sleep, unlocking the screen, or changing displays. Previously they could reappear while the chevron still showed the collapsed state, so the next click seemed to do nothing.
+- Apps launched while icons are hidden are no longer hidden when their icons sit to the right of the chevron.
+- Clicking the chevron right after launch is no longer overridden by the start-collapsed option.
+- 切换桌面（空间）、从睡眠唤醒、解锁屏幕或更改显示器后，已隐藏的图标会保持隐藏。此前图标可能重新出现，而箭头仍显示为收起状态，导致下一次点击看似无效。
+- 隐藏期间新启动的应用，若其图标位于箭头右侧，不会再被误隐藏。
+- 启动后立即手动点击箭头，不会再被"启动时收起"选项覆盖。
+
 ## 1.0.0 — 2026-09-22
 
 - First stable MenuTrim release.
