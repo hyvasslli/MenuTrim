@@ -40,7 +40,7 @@ MenuTrim is a lightweight, native macOS menu bar space manager. Put less importa
 - Compact, tight, or custom spacing for compatible third-party menu bar items
 - Native macOS app with no account, advertising, analytics, tracking, or subscription
 
-Apple system controls remain visible. MenuTrim does not change their spacing.
+In **Settings → Clock**, you can hide the macOS clock or show a separate MenuTrim clock with a custom format and time zone. MenuTrim does not change the spacing of Apple system items.
 
 ### Download and installation
 
@@ -54,7 +54,7 @@ The release contains a Developer ID signed app. Its DMG has been accepted by App
 
 ### Requirements
 
-- macOS 27 or later
+- Apple silicon Mac with macOS 27
 - Device Control and Data Access permission
 
 MenuTrim uses this permission only when it needs to identify the positions and owning apps of visible third-party menu bar items. Processing stays on your Mac.
@@ -95,7 +95,7 @@ MenuTrim 是一款轻量、原生的 macOS 菜单栏空间管理工具。将不�
 - 为兼容的第三方菜单栏项目设置紧凑、较紧或自定义间距
 - 原生 macOS 应用，无账户、广告、统计、跟踪和订阅
 
-Apple 系统控制图标始终保留，MenuTrim 不修改系统图标间距。
+在 **设置 → Clock** 可隐藏系统时钟，也可显示支持自定义格式和时区的 MenuTrim 时钟。MenuTrim 不修改 Apple 系统图标间距。
 
 ### 下载与安装
 
@@ -109,7 +109,7 @@ Apple 系统控制图标始终保留，MenuTrim 不修改系统图标间距。
 
 ### 系统要求
 
-- macOS 27 或更高版本
+- 搭载 Apple 芯片的 Mac，需 macOS 27
 - “设备控制与数据访问”权限
 
 MenuTrim 仅在需要识别当前可见第三方菜单栏项目的位置和所属应用时使用该权限，所有处理均在本机完成。

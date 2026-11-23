@@ -1,5 +1,12 @@
 # Changelog / 更新记录
 
+## 1.0.3 — 2026-11-22
+
+- Added a separate MenuTrim clock with customizable time, date, weekday, and time zone.
+- The arrow and clock can be positioned independently. The macOS clock can be hidden or restored independently of the app icons.
+- 新增独立 MenuTrim 时钟，可自定义时间、日期、星期和时区。
+- 箭头和时钟可以分别摆放，系统时钟可独立于应用图标隐藏或恢复。
+
 ## 1.0.1 — 2026-10-23
 
 - Hidden icons now stay hidden after switching desktops (Spaces), waking from sleep, unlocking the screen, or changing displays. Previously they could reappear while the chevron still showed the collapsed state, so the next click seemed to do nothing.
